@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onejohi" alt="onejohi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/onejohi_" target="blank"><img src="https://img.shields.io/twitter/follow/onejohi_?logo=twitter&style=for-the-badge" alt="onejohi_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/onejohi" target="blank"><img src="https://img.shields.io/twitter/follow/onejohi?logo=twitter&style=for-the-badge" alt="onejohi" /></a> </p>
 
 - 🔭 I’m currently working on [#thisistitan, an electric motorcycle concept.](https://thisistitan.com)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/onejohi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onejohi_" height="30" width="40" /></a>
+<a href="https://twitter.com/onejohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onejohi" height="30" width="40" /></a>
 <a href="https://medium.com/@onejohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@onejohi" height="30" width="40" /></a>
 </p>
 
@@ -35,18 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onejohi&show_icons=true&locale=en" alt="onejohi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onejohi&" alt="onejohi" /></p>
-
-<!--
-**onejohi/onejohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
