@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onejohi Tony</h1>
 <h3 align="center">Two things power the internet, to find and to be found.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onejohi&label=Profile%20views&color=0e75b6&style=flat" alt="onejohi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=onejohi&label=Profile%20views&color=0e75b6&style=flat" alt="onejohi" /> </p>
 
 <p align="center"> <a href="https://twitter.com/onejohi" target="blank"><img src="https://img.shields.io/twitter/follow/onejohi?logo=twitter&style=for-the-badge" alt="onejohi" /></a> </p>
 
