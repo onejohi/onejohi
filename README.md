@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/onejohi" target="blank"><img src="https://img.shields.io/twitter/follow/onejohi?logo=twitter&style=for-the-badge" alt="onejohi" /></a> </p>
 
-- 🔭 I’m currently working on Tokuku Poultry Manager
+- 🔭 I’m currently working on [KukuPro](https://kukupro.com)
 
 - 🌱 I’m currently learning **Flutter**
 
